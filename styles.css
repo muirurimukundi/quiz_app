@@ -29,3 +29,9 @@ button {
   cursor: pointer; 
 
 }
+
+#start-button, #restart {
+  font-size: 1.3em; 
+  padding: 0.5em 1.8em; 
+  border-radius: 0.2em; 
+}
